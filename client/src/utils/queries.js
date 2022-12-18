@@ -11,8 +11,8 @@ export const QUERY_ME = gql`
         authors
         image
         description
-        link
         title
+        link
       }
     }
   }

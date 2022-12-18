@@ -15,7 +15,7 @@ ___
 
 ## 🌟[Repo: Book Search ](https://github.com/Young-Chhay/Book-Search "Github Page")
 
-## 🌟 Heroku Deployed App.
+## 🌟 Heroku Deployed App. 
 [Click me : Demo on Heroku](https://floating-ravine-96943.herokuapp.com/)
 
 

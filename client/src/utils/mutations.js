@@ -38,8 +38,8 @@ export const SAVE_BOOK = gql`
         authors
         image
         description
-        link
         title
+        link
       }
     }
   }
@@ -57,8 +57,8 @@ export const REMOVE_BOOK = gql`
         authors
         image
         description
-        link
         title
+        link
       }
     }
   }
